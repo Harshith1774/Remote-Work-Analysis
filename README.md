@@ -27,32 +27,32 @@ In this analysis, we will delve into the changing remote work landscape, explori
 ### 1. Remote Work
 - The respondents were working remotely around 3 days a week and preferred a slightly higher remote work time.
 
-![](https://github.com/Harshith1774/Remote-Work-Analysis/blob/72bc1bcfa4165ff7b1bc539de15fadc641fe809e/remote%20work%20vs%20preferred.png)
+![](https://github.com/Harshith1774/Remote-Work-Analysis/blob/main/Graphs/remote%20work%20vs%20preferred.png)
 
 - The Finance and Insurance industry had the highest remote work time.
 - Remote work was more prevalent in large companies having more than 200 employees.
 ### 2. Advantages of Remote work
 - Flexibility of work was the most voted among the advantages of remote work.
 
-![](https://github.com/Harshith1774/Remote-Work-Analysis/blob/main/Remote%20work-advantages.png)
+![](https://github.com/Harshith1774/Remote-Work-Analysis/blob/main/Graphs/Remote%20work-advantages.png)
 
 - Remote work redistributed time spent on different activities. Respondents spent more time with family and on domestic responsibilities but also ended up working for longer.
 
-![](https://github.com/Harshith1774/Remote-Work-Analysis/blob/main/Time%20spent.png)
+![](https://github.com/Harshith1774/Remote-Work-Analysis/blob/main/Graphs/Time%20spent.png)
 
 ### 3. Barriers and concerns of remote work
 - Barriers of remote work included lack of suitable work environments, lack of privacy, difficulty in collaborating with others and interruptions.
 - A major portion of respondents were concerned that others in the company won’t think they are working as hard as them.
 
-![](https://github.com/Harshith1774/Remote-Work-Analysis/blob/main/Remote%20work-Barriers.png)
+![](https://github.com/Harshith1774/Remote-Work-Analysis/blob/main/Graphs/Remote%20work-Barriers.png)
 
-![](https://github.com/Harshith1774/Remote-Work-Analysis/blob/main/Remote%20work-concerns.png)
+![](https://github.com/Harshith1774/Remote-Work-Analysis/blob/main/Graphs/Remote%20work-concerns.png)
 
 - While factors such as collaboration, internet connectivity, motivation and health & safety improved over time, other factors such as isolation significantly worsened for many respondents.
   
 ### 4. Impacts of remote work
 
-![](https://github.com/Harshith1774/Remote-Work-Analysis/blob/main/Impacts%20of%20remote%20work.png)
+![](https://github.com/Harshith1774/Remote-Work-Analysis/blob/main/Graphs/Impacts%20of%20remote%20work.png)
 
 - At least 70% of the respondents reported an increase in productivity.
 - Respondents unanimously agreed on an increase in flexibility.
@@ -66,7 +66,7 @@ In this analysis, we will delve into the changing remote work landscape, explori
 - A major number of companies (50.4%) have a compulsion to work onsite for sometime.
 - It was mandatory to visit the office at least once in a week.
 
-![](https://github.com/Harshith1774/Remote-Work-Analysis/blob/main/Mixed%20work.png)
+![](https://github.com/Harshith1774/Remote-Work-Analysis/blob/main/Graphs/Mixed%20work.png)
 
 ## Future Prospects of Work:
 
